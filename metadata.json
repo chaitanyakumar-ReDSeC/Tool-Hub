@@ -1,0 +1,6 @@
+{
+  "name": "Tool Hub",
+  "description": "A minimalist, high-performance tool inventory manager with real-time search, category filtering, and CSV data source.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

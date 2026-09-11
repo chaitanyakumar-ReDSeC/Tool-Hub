@@ -1,0 +1,7 @@
+Tool Name,Category,URL,Description
+LocalSend,Tools,https://localsend.org/download,Open-source application for sharing files between devices over a local network without requiring the internet.
+Notepad++,Development,https://notepad-plus-plus.org/downloads/,Powerful open-source text and source-code editor for Windows.
+RustDesk,Tools,https://rustdesk.com/,Open-source remote desktop application for remotely controlling and accessing devices.
+uTorrent,Torrents,https://www.utorrent.com/desktop/#comparison-panels,Lightweight BitTorrent client for downloading and sharing files through peer-to-peer networks.
+yt-dlp-toolkit,Self Developed,https://github.com/chaitanyakumar-ReDSeC/yt-dlp-toolkit/releases/download/v1.0.0.0/yt-dlp-toolkit.exe,CLI wrapper for yt-dlp that simplifies downloading video and audio from supported websites.
+VS Code,Development,https://code.visualstudio.com/Download,Popular IDE for code development. Best in the market.
