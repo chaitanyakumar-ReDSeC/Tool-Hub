@@ -1,4 +1,4 @@
-  name: Deploy Tool Hub to GitHub Pages
+name: Deploy Tool Hub to GitHub Pages
 
 on:
   push:
