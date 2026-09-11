@@ -11,9 +11,9 @@ import { ToolCard } from './components/ToolCard';
 import { Footer } from './components/Footer';
 
 const TAB_CSV_FILES: Record<ApplicationTab, string> = {
-  'Web Applications': '/web_applications.csv',
-  'Windows Applications': '/windows_applications.csv',
-  'Android Applications': '/android_applications.csv',
+  'Web Applications': 'web_applications.csv',
+  'Windows Applications': 'windows_applications.csv',
+  'Android Applications': 'android_applications.csv',
 };
 
 export default function App() {
